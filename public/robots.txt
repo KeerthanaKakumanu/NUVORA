@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Replace the example domain in site-map.xml before production.

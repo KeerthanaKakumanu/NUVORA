@@ -1,0 +1,13 @@
+import { Globe, BrainCircuit, ShoppingCart, GraduationCap, BarChart3, Workflow, ShieldCheck, Bot, BookOpen, Layers3 } from 'lucide-react';
+export const projects = [
+ {slug:'nexora-academy',title:'Nexora Academy',category:'Education',icon:GraduationCap,description:'A concept learning hub with course discovery, progress views and resource collections.',tags:['React','UI/UX'],status:'Interactive concept'},
+ {slug:'ai-insight-studio',title:'AI Insight Studio',category:'AI',icon:BrainCircuit,description:'An AI workspace concept for organizing prompts, notes and generated insights.',tags:['AI','Dashboard'],status:'Concept demo'},
+ {slug:'commerce-flow',title:'Commerce Flow',category:'E-commerce',icon:ShoppingCart,description:'A clean storefront concept with category filters, cart interactions and product details.',tags:['React','Commerce'],status:'Interactive concept'},
+ {slug:'orbit-analytics',title:'Orbit Analytics',category:'Dashboard',icon:BarChart3,description:'A responsive analytics interface concept with visual summaries and activity views.',tags:['Charts','Dashboard'],status:'Concept demo'},
+ {slug:'campus-connect',title:'Campus Connect',category:'Education',icon:BookOpen,description:'A campus resource portal concept for finding academic resources and project ideas.',tags:['Education','Search'],status:'Concept demo'},
+ {slug:'workflow-hub',title:'Workflow Hub',category:'Software',icon:Workflow,description:'A lightweight operations dashboard concept for tasks, milestones and team workflows.',tags:['Productivity','UI'],status:'Concept demo'},
+ {slug:'secure-desk',title:'Secure Desk',category:'Software',icon:ShieldCheck,description:'A security-minded service portal concept with clear states and structured navigation.',tags:['Security','Portal'],status:'Concept demo'},
+ {slug:'nova-assistant',title:'Nova Assistant',category:'AI',icon:Bot,description:'A front-end assistant demo that helps visitors explore service options.',tags:['AI interface','Chat'],status:'Demo assistant'},
+ {slug:'webcraft-studio',title:'Webcraft Studio',category:'Web',icon:Globe,description:'A responsive company website concept with reusable sections and theme switching.',tags:['React','Responsive'],status:'Concept demo'},
+ {slug:'modular-crm',title:'Modular CRM',category:'Dashboard',icon:Layers3,description:'A customer workflow interface concept with searchable records and status labels.',tags:['CRM','Dashboard'],status:'Concept demo'}
+];

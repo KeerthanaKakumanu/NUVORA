@@ -1,0 +1,9 @@
+KKNUV — NuvoraMind website repair
+
+1. Read README.md and GETTING-STARTED.md.
+2. Install Node.js 20+ and run: npm install
+3. Run locally: npm run dev
+4. Create production build: npm run build
+5. Review REQUIREMENT-TRACEABILITY.md and FINAL-AUDIT-REPORT.md before deployment.
+
+Important: npm dependency retrieval timed out in the packaging environment, so the production build and browser checks are pending. The assistant and portal are demos; contact prepares a mailto message. NexoraHub remains a concept placeholder until product details are verified.
